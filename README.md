@@ -1,1 +1,1 @@
-A beginner web development learning project<br>deployed website on GitHub Pages and Vercel<br>Presently undeployed.
+A beginner web development learning project<br>Deployed website on GitHub Pages and Vercel<br>Presently undeployed.
